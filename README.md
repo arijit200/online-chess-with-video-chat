@@ -11,4 +11,4 @@
 - PeerJs for the video exchange
 
 ## Demo
-![Youtube](https://youtu.be/F24JpQreFd8?si=iE9BaM-M5ZhrOn50)
+[Youtube](https://youtu.be/F24JpQreFd8?si=iE9BaM-M5ZhrOn50)
