@@ -10,14 +10,5 @@
 - NodeJs, ExpressJs and Socket.io for the backend
 - PeerJs for the video exchange
 
-## Images
-- Welcome Screen
-![](https://github.com/arijit200/online-chess-with-video-chat/blob/master/images/Screenshot%20(41).png)
-- Interface
-![](https://github.com/arijit200/online-chess-with-video-chat/blob/master/images/Screenshot%20(43).png)
-- Me playing against myself 😂
-![](https://github.com/arijit200/online-chess-with-video-chat/blob/master/images/Screenshot%20(46).png)
-![](https://github.com/arijit200/online-chess-with-video-chat/blob/master/images/Screenshot%20(47).png)
-
-### Feel free to fork it and contribute
-### Happy coding !!
+## Demo
+![Youtube](https://youtu.be/F24JpQreFd8?si=iE9BaM-M5ZhrOn50)
